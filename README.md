@@ -1,4 +1,3 @@
-READ ME profile 
 # <center> Hi, I'm David Castano 👋
 
 ### <center> 📊 Data Analyst | ETL & Transforming  Data into Actionable 
