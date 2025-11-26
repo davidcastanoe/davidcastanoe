@@ -1,22 +1,63 @@
 # Hi, I'm David Castano 👋
 
-## 🎯 Data Analyst | Turning Complex Data into Actionable Insights
+### 📊 Data Analyst | Transforming Operational Data into Actionable Business Strategy
 
-I'm a data analyst specializing in **ETL pipelines**, **healthcare analytics**, and **interactive dashboards**. With 7+ years of operational leadership and recent training in data analytics, I bridge the gap between technical analysis and business strategy.
+---
 
-### 🔧 Technical Skills
-- **Languages:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, SciPy)
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Cloud:** Azure Data Fundamentals (DP-900 Certified)
-- **Tools:** Git, Jupyter, API Integration
+## 🔎 Professional Summary
 
-### 🚀 Featured Projects
-- 🏥 **[Healthcare Analytics](link)** - Uncovered 34% dental access disparities affecting 12M+ Americans
-- 📊 **[ETL Pipeline](link)** - Automated crowdfunding data processing, reducing manual work by 80%
-- 🎵 **[Music Analytics Dashboard](link)** - Interactive dashboard analyzing 50K+ records across 50 countries
-- 🎬 **[Recommendation Engine](link)** - Netflix-style ML model with 92% accuracy
+Detail-oriented Data Analyst with hands-on experience building **ETL pipelines**, **interactive dashboards**, and generating actionable insights from healthcare and operational data.
 
-### 📫 Let's Connect
-- LinkedIn: [Your LinkedIn]
-- Email: David.castanoe@gmail.com
-- Location: New York, NY
+I specialize in the full data lifecycle—from extraction and transformation to statistical analysis and visualization. Proven track record leveraging **7+ years of operational leadership** to manage cross-functional teams and translate complex technical findings into clear, data-informed recommendations for stakeholders.
+
+* **Key Certifications:** Microsoft Certified: **Azure Data Fundamentals (DP-900)**, Data Analytics & Visualization.
+* **Goal:** Seeking a Data Analyst role to leverage technical expertise and drive quantifiable business impact.
+
+---
+
+## 🛠️ Core Technical Toolkit
+
+My toolbox includes the following technologies, optimized for the modern data stack:
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Database** | **Python** (Pandas, NumPy, SciPy), **SQL** (PostgreSQL, MySQL, **Snowflake**), Shell/Bash |
+| **Cloud & ETL** | **Microsoft Azure (DP-900)**, ETL Workflows, Data Modeling (3NF, Star, Snowflake Schema), API Integration |
+| **Visualization & BI** | **Tableau**, Power BI, Plotly, Matplotlib, Seaborn, Interactive Dashboards |
+| **Other Tools** | **Advanced Excel** (**Pivot Tables, VLOOKUP, Macros**), Git/GitHub, Jupyter Notebook, VS Code |
+
+<br>
+
+### Badges (Visual Skills Showcase)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+  <img src="https://img.io/badge/SQL-30A58B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  <img src="https://img.shields.io/badge/Excel-107C10?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge"/>
+</p>
+
+---
+
+## 🚀 Featured Data Projects
+
+These projects demonstrate end-to-end analytical capability and business impact. **(Ensure you replace the text below with actual links to your repositories!)**
+
+* **[Dental Health USA (Healthcare Disparity Analysis)]** - Analyzed CDC and Census data using **Python (SciPy)** and APIs, uncovering a **34% access disparity** impacting over 12 million Americans.
+* **[Crowdfunding Investment ETL Pipeline]** - Engineered an automated **Python/Snowflake** ETL pipeline, standardizing 1,000+ records. Reduced manual processing by **80%** (saving ~15 hours/week) and improved investment targeting accuracy by **40%**.
+* **[Movie Recommendation Engine]** - Developed a K-Nearest Neighbors (**KNN**) model on 11K+ films. Achieved **92% similarity accuracy**, replicating commercial-grade recommendation logic after boosting model efficiency by **45%** through feature engineering.
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively seeking Data Analyst roles. Let's discuss how data can drive your business goals!
+
+* **Email:** David.castanoe@gmail.com
+* **Location:** New York, NY
+
+<p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL]) 
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([Your GitHub Profile URL])
+</p>
