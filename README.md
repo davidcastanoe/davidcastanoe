@@ -27,17 +27,6 @@ My toolbox includes the following technologies, optimized for the modern data st
 | **Other Tools** | **Advanced Excel** (**Pivot Tables, VLOOKUP, Macros**), Git/GitHub, Jupyter Notebook, VS Code |
 
 <br>
-
-### Badges (Visual Skills Showcase)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-  <img src="https://img.io/badge/SQL-30A58B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
-  <img src="https://img.shields.io/badge/Excel-107C10?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge"/>
-</p>
-
 ---
 
 ## 🚀 Featured Data Projects
@@ -58,6 +47,6 @@ I'm actively seeking Data Analyst roles. Let's discuss how data can drive your b
 * **Location:** New York, NY
 
 <p>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL]) 
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([Your GitHub Profile URL])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[Your LinkedIn URL](https://www.linkedin.com/in/davidcastanoe/)]) 
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([[Your GitHub Profile URL](https://github.com/Davidcastanoe)])
 </p>
