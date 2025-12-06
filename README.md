@@ -14,7 +14,11 @@ Detail-oriented Data Analyst skilled in leveraging SQL, Python (Pandas), Tableau
 
 * **Key Certifications:** 
     - Data Analytics & Visualization Bootcamp
-    - Microsoft Certified: **Azure Data Fundamentals (DP-900)** 
+    - Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+ 
+* **ONGOING LEARNING:** 
+    - Advanced SQL Mastery 					                 | 	HackerRank  (In Progress) 	    | Expected 2026
+    - Microsoft Certified: Power BI Data Analyst Associate	 |	Microsoft       (In Progress)	| Expected 2026
 
 ## 🛠️ Core Technical Toolkit
 
@@ -22,11 +26,11 @@ My toolbox includes the following technologies, optimized for the modern data st
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages & Database** | **Python** (Pandas, NumPy), **SQL** (PostgreSQL, MySQL, Snowflake), Terminal/Shell/Bash |
+| **Languages & Database** | **Python** (Pandas, NumPy), **SQL** (PostgreSQL, MySQL, NoSQL,SQLite, SQLAlchemy) |
 | **Cloud & ETL** | **Microsoft Azure (DP-900)**, ETL Workflows, Data Modeling (3NF, Star, Snowflake Schema), API Integration |
-| **Visualization & BI** | **Tableau**, Power BI, Plotly, Matplotlib, Seaborn, Interactive Dashboards |
-| **Other Tools** | **Excel** (**Pivot Tables, VLOOKUP, Macros**), Git/GitHub, Jupyter Notebook, VS Code |
-| **Key Competences** | Data governance, translating insights into business strategy, stakeholder communication, cross-functional collaboration, problem-solving in fast-paced environments |
+| **Visualization & BI** | **Tableau**, Power BI, Plotly, Matplotlib, Seaborn, |
+| **Other Tools** | **Excel** (**Pivot Tables, VLOOKUP, Macros**), GitHub, Jupyter Notebook, VS Code, command-line tools (Terminal/Shell/Bash)  |
+| **Key Competences** | Data Ethics & governance, Data storytelling, translating insights into business strategy, KPI Analysis, Effective verbal and written communication, cross-functional collaboration, problem-solving in fast-paced environments, Critical Thinking, Adaptability, Fast learner, curiosity, and passion for data. |
 
 ## 🚀 Featured Data Projects
 
